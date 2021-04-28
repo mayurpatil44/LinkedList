@@ -48,4 +48,6 @@ public class MyLinkedListTest {
                 myLinkedList.tail.equals(myThirdNode);
         Assertions.assertTrue(result);
     }
+
+
 }
